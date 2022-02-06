@@ -1,0 +1,89 @@
+{
+    "Name": "Dhinesh M S",
+    "email": "dhinesh.sudhakar93@gmail.com",
+    "mobile": 7418526686,
+    "Total years of experience": "6 years 8 months",
+    "Education": "BE mechanical-GCE salem",
+    "Native": "Puttur-Andhra pradhesh",
+    "Experience": [
+        {
+            "company": "SELF TAUGHT WEB DEVELOPER",
+            "Designation": "Full stack web developer",
+            "Profile description": "Involved in development of the MERN stack and API driven compact web applications",
+            "No of years": "2 years",
+            "Employment mode": "Part time",
+            "Projects": [
+                {
+                    "project Title": "MERN stack social media app",
+                    "Description": "A small full stack website created. Implemented authentication driven routes, CRUD functionalities for post and comments."
+                },
+                {
+                    "project Title": "MERN stack e-commerce app",
+                    "Description": "Compact e-commerce application added the features like authentication, admin access, conditional rendering(routes), CRUD operations for categories, products, and cart. Payment features is working in progress"
+                },
+                {
+                    "project Title": "Online Video streaming app",
+                    "Description": "Built the online video streaming application using the free API services"
+                }
+            ]
+        },
+        {
+            "company": "Mahindra and mahindra Ltd",
+            "Designation": "Seating engineer",
+            "Profile description": "Involved in research and completed development lifecycle of automotive seating systems for various projects like XUV 300, XUV 500, Thar etc. ",
+            "No of years": "6 years 8 months",
+            "Employment mode": "Full time",
+            "Projects descriptions": "Development of optimized seat system layouts. Involved in homologation, virtual and physical validations, engineering feedback and optimizations of design and production."
+        }
+    ],
+    "Technical Skills": [
+        {
+            "Name of Skill": "HTML5",
+            "Rating out of 10": 7
+        },
+        {
+            "Name of Skill": "CSS3",
+            "Rating out of 10": 6.5
+        },
+        {
+            "Name of Skill": "Javascript",
+            "Rating out of 10": 7
+        },
+        {
+            "Name of Skill": "Bootstrap",
+            "Rating out of 10": 6
+        },
+        {
+            "Name of Skill": "React",
+            "Rating out of 10": 6.5
+        },
+        {
+            "Name of Skill": "Redux",
+            "Rating out of 10": 6
+        },
+        {
+            "Name of Skill": "Git and github",
+            "Rating out of 10": 6.5
+        },
+        {
+            "Name of Skill": "Material UI",
+            "Rating out of 10": 5.5
+        },
+        {
+            "Name of Skill": "Node Js",
+            "Rating out of 10": 6
+        },
+        {
+            "Name of Skill": "Express Js",
+            "Rating out of 10": 5.5
+        },
+        {
+            "Name of Skill": "Mongo DB",
+            "Rating out of 10": 6
+        },
+        {
+            "Name of Skill": "Mongoose",
+            "Rating out of 10": 5.5
+        }
+    ]
+}
